@@ -1,0 +1,12 @@
+#sommaire{background: rgb(189, 185, 185);
+padding: 2%;
+;
+border-radius: 5%;
+width: fit-content;
+
+}
+#images,h1{text-align: center;}
+#prix{background:rgb(189, 185, 185) ;
+width: fit-content;
+padding: 1%;
+border-radius: 3%;}
